@@ -1,6 +1,16 @@
+#dtext {
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  font-size: larger;
+}
+
+p {
+  color: #9a9a9a;
+}
 
 nav img {
   float: left;
+  padding: 5px;
 }
 
 li img {
@@ -13,6 +23,11 @@ header {
   width: 1050px;
   border: solid black;
 }
+h2 {
+  font-size: 25px;
+  font-weight: bolder;
+}
+
 main {
   margin: auto;
   width: 1050px;
